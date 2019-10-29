@@ -12,7 +12,7 @@ const link = {
 
 const NavBar = () => {
   return (
-    <div>
+    <div className="navbar">
       <NavLink
         to="/"
         exact
